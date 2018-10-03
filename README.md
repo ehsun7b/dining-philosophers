@@ -1,1 +1,2 @@
-# dining-philosophers
+# Dining Philosophers
+Classic synchronization problem
